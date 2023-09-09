@@ -4,3 +4,6 @@
 [submodule "lab02-pencils-RobertGemmaJr"]
 	path = lab02-pencils-RobertGemmaJr
 	url = https://github.com/BrownCSCI1230/lab02-pencils-RobertGemmaJr
+[submodule "projects-raster-RobertGemmaJr"]
+	path = projects-raster-RobertGemmaJr
+	url = https://github.com/BrownCSCI1230/projects-raster-RobertGemmaJr
