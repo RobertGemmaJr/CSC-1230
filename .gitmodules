@@ -7,3 +7,6 @@
 [submodule "projects-raster-RobertGemmaJr"]
 	path = projects-raster-RobertGemmaJr
 	url = https://github.com/BrownCSCI1230/projects-raster-RobertGemmaJr
+[submodule "lab03-convolution-RobertGemmaJr"]
+	path = lab03-convolution-RobertGemmaJr
+	url = https://github.com/BrownCSCI1230/lab03-convolution-RobertGemmaJr.git
